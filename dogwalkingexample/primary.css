@@ -1,0 +1,48 @@
+.sidenav 
+{
+height: 100px;
+float: left;
+background-color: blue;
+width: 100%;
+left: 0px;
+top: 0px;
+position: fixed;
+padding-left: 30%;
+
+}
+.navbutton 
+{
+background: transparent;
+border: none;
+height: 100px;
+width: 200px;
+}
+.navbutton:hover
+{
+background: white;
+border: 2px solid black;
+}
+body 
+{
+background-color: black;
+}
+.maintext
+{
+position: absolute;
+color: white;
+padding-left: 20px;
+
+
+}
+.box
+{
+position: relative;
+border: 2px solid white;
+padding-top: 10%;
+height: 50%;
+width: 70%;
+left: 1px;
+padding-left: 30%;
+top: 110px
+
+}
