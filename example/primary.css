@@ -1,0 +1,138 @@
+.navbar
+{
+height: 30%;
+}
+
+.navbutton
+{
+position: relative;
+height: 80%;
+width: 10%;
+background: transparent;
+border: none;
+font-size: 1vw;
+left: 50%;
+}
+
+.navbutton:hover
+{
+background: #EBEBEB;
+border: none;
+}
+.mainbutton
+{
+position: relative;
+height: 80%;
+width: 10%;
+background-color: #FFA621;
+border: none;
+font-size: 1vw;
+left: 50%;
+border-radius: 10px;
+}
+.mainbutton:hover
+{
+background-color: #FFB952;
+}
+
+.banner
+{
+position: relative;
+width: 50%;
+float: right;
+margin-top: 2%;
+border: 5px solid black;
+}
+.content
+{
+font-size: 1vw;
+color: black;
+position: relative;
+}
+.contenttext
+{
+position: relative;
+padding-top: 5%;
+padding-left: 10%;
+font-size: 2.3vw;
+}
+.contentext
+{
+position: relative;
+padding-top: 5%;
+padding-left: 10%;
+font-size: 1.8vw;
+}
+.button
+{
+position: relative;
+left: 20%;
+width: 10%;
+height: 20%;
+padding: 1%;
+background-color: #0088FF;
+border: none;
+font-size: 1vw;
+border-radius: 15px;
+}
+.button:hover
+{
+background-color: #337EFF;
+border: 1px solid black;
+}
+.navbutton1
+{
+position: relative;
+height: 80%;
+width: 15%;
+background: transparent;
+border: none;
+font-size: 1vw;
+font-weight: bold;
+}
+
+.navbutton1:hover
+{
+background: #EBEBEB;
+border: none;
+}
+
+
+.banner2
+{
+border: 5px solid black;
+width: 40%;
+Margin-top: 25%;
+float: left;
+
+}
+.context2
+{
+margin-left: 60%;
+margin-top: 28%;
+font-size: 2.3vw;
+
+}
+.content2
+{
+font-size: 1.8vw;
+padding-left: 50%;
+}
+
+.button2
+{
+position: relative;
+left: 25%;
+width: 10%;
+height: 20%;
+padding: 1%;
+background-color: #0088FF;
+border: none;
+font-size: 1vw;
+border-radius: 15px;
+}
+.button2:hover
+{
+background-color: #337EFF;
+border: 1px solid black;
+}
